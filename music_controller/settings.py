@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     # local Apps
     'api.apps.ApiConfig',
     'rest_framework',
+    'frontend.apps.FrontendConfig',
 ]
 
 MIDDLEWARE = [
